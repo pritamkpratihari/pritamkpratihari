@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritamkpratihari
-- 👀 I’m interested in python, C++, SQL, Machine Learning, Data Science, Algorithms, and Data Structures.
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on Python and SQL.
+- 👀 I’m interested in fullstack development, python, C++, SQL, Algorithms, and Data Structures.
+- 🌱 I’m currently learning Frontend development and eventually plan to transition to backend and full stack.
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript and SQL.
 - 📫 How to reach me : Contact me on my email : official.pritamkumar@gmail.com
 
 <!---
